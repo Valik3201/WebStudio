@@ -214,11 +214,19 @@ button:focus {
   box-shadow: 0px 1px 6px 0px rgba(46, 47, 66, 0.08),
     0px 1px 1px 0px rgba(46, 47, 66, 0.16),
     0px 2px 1px 0px rgba(46, 47, 66, 0.08);
+  position: fixed;
+  top: 0;
+  left: 0;
+  background: white;
+  width: 100vw;
 }
 
 @media screen and (min-width: 768px) {
   .top-line {
     padding: 16px 0;
+    position: static;
+    background: initial;
+    width: auto;
   }
 }
 
@@ -709,6 +717,13 @@ a.main-link::after {
   width: 100%;
   margin: 0 auto;
   padding: 112px 0;
+  margin-top: 71px;
+}
+
+@media screen and (min-width: 768px) {
+  .dark-bg-hero {
+    margin-top: 0;
+  }
 }
 
 @media screen and (min-width: 1200px) {
