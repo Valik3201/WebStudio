@@ -22,7 +22,7 @@ This document provides a detailed overview of the technical aspects and componen
 6. [Responsive Design](#responsive-design)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset=https://github.com/Valik3201/WebStudio/blob/main/images/responsive-preview/responsive-dark.jpg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Valik3201/WebStudio/blob/main/images/responsive-preview/responsive-dark.jpg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Valik3201/WebStudio/blob/main/images/responsive-preview/responsive-light.jpg">
   <img alt="Responsive Design Preview" src="https://github.com/Valik3201/WebStudio/blob/main/images/responsive-preview/responsive-light.jpg" width="100%">
 </picture>
