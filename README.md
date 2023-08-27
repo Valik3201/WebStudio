@@ -1,11 +1,9 @@
 <div align="center">
-  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Valik3201/WebStudio/blob/main/images/logo/logo_dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Valik3201/WebStudio/blob/main/images/logo/logo_light.svg">
   <img alt="WebStudio Logo" src="https://github.com/Valik3201/WebStudio/blob/main/images/logo/logo_light.png" width="400">
 </picture>
-
   <h1>
     Web Studio Project Documentation
   </h1>
