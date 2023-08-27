@@ -1,4 +1,15 @@
-# Web Studio Project Documentation
+<div align="center">
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Valik3201/WebStudio/blob/main/images/logo/logo_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Valik3201/WebStudio/blob/main/images/logo/logo_light.svg">
+  <img alt="Tea2Go Logo" src="https://github.com/Valik3201/Tea2Go/blob/main/images/logo-black.svg" width="400">
+</picture>
+
+  <h1>
+    Web Studio Project Documentation
+  </h1>
+</div>
 
 This document provides a detailed overview of the technical aspects and components of the project, from inception to completion.
 
