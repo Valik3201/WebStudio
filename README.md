@@ -1,4 +1,4 @@
-<div align="center" style="padding-bottom: 10px;">
+<div align="center" style="padding-bottom: 100px;">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Valik3201/WebStudio/blob/main/images/logo/logo_dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Valik3201/WebStudio/blob/main/images/logo/logo_light.svg">
