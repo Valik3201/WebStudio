@@ -1070,7 +1070,7 @@ a.main-link::after {
 
 @media screen and (min-width: 1200px) {
   .portfolio-section {
-    justify-content: center;
+    margin: 0;
   }
 }
 
